@@ -1,4 +1,4 @@
-package com.mahbub;
+package lecture_01_basic;
 
 public class Primitive {
     public static void main(String[] args){

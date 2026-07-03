@@ -1,4 +1,4 @@
-package com.mahbub;
+package lecture_01_basic;
 
 import java.util.Scanner;
 
