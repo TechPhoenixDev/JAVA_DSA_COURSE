@@ -12,7 +12,7 @@ public class Fibonacci {
         int i=0;
         System.out.println("the fabonacci series: ");
         while(i<=n){
-            System.out.print(initial  );
+            System.out.print(initial +" " );
             int next_term=initial+finalValue;
             initial= finalValue;
             finalValue= next_term;
@@ -20,5 +20,5 @@ public class Fibonacci {
         }
 
     }
-// 0 1 1 2
+
 }
